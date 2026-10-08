@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Himel Widgets</string>
+
+    <string name="widget_clock_name">World Clock</string>
+    <string name="widget_clock_description">Analog + multi-city world clocks</string>
+
+    <string name="widget_calendar_name">BD Calendar</string>
+    <string name="widget_calendar_description">Bangla + Hijri calendar with Bangladesh holidays</string>
+
+    <string name="widget_weather_name">Weather</string>
+    <string name="widget_weather_description">Live weather forecast powered by Open-Meteo</string>
+
+    <string name="add_widget_hint">Long-press home screen → Widgets → Himel Widgets</string>
+</resources>
